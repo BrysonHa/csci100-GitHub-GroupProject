@@ -3,8 +3,8 @@ export default function Christian() {
   return (
     <main style={{
       minHeight: "100vh",
-      backgroundColor: "#111827",
-      color: "white",
+      backgroundColor: "#977507",
+      color: "grey",
       fontFamily: "Arial, sans-serif",
       padding: "60px 24px",
       textAlign: "center"
@@ -26,7 +26,7 @@ export default function Christian() {
       </p>
 
       <h2>Fun Fact</h2>
-      <p>I'm a twin brother.</p>
+      <p>I'm a twin brother, not identical but we look identical</p>
     </main>
   );
 }
